@@ -1,0 +1,3346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template>
+    <description></description>
+    <id>996df428-ceef-4d06-a71a-eb456622ab43</id>
+    <name>Template-22052016</name>
+    <snippet>
+        <connections>
+            <id>f6cea528-45fd-47aa-a98f-2d6baa0219dc</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>b5953145-ccfb-4baa-85ac-4f4b4f2c0230</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>7d8373d6-70ad-45a8-a8b0-25cb8f96655c</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>2c06c651-6e00-44e1-b49b-5aba6b2a5d84</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>10d2709e-2334-4382-ba84-2224ec21699e</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>splits</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>077a5cf2-9dac-457b-b9bd-12b315502be5</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>79144390-6447-4ed5-a634-679422f1b9ef</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>034ac0a1-c299-460e-97fc-4896e1888d0a</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>10d2709e-2334-4382-ba84-2224ec21699e</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>d82fac2d-99da-46db-b321-4c9322dba30f</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>99fd47a9-b4ce-46b7-8d0b-3e1ae61afde7</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>32fa1735-eb04-443f-9f78-c23c1df04cf7</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>f4ab17ba-d27e-4e5c-a414-1e2e4c0fb250</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>ee631a97-2bb5-41d3-b216-4687077c6663</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>66143511-28d7-4bde-b005-a00c151ac746</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>c2a9d98b-613e-4805-aca9-fc28787e536c</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>00e2d1ea-f20a-42ba-b34b-6c6b0525f1e7</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>99fd47a9-b4ce-46b7-8d0b-3e1ae61afde7</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>0bceb7da-ca5f-4608-923f-cac909059ed8</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>077a5cf2-9dac-457b-b9bd-12b315502be5</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>ea10118d-6732-4a70-88c7-fd8b8e02ea57</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>9684a6f8-08cc-4fe0-861f-41f83ecf92e0</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>ad4a4282-d971-4325-a154-b37346c3166e</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>matched</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>034ac0a1-c299-460e-97fc-4896e1888d0a</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>fd76afd1-8462-4c45-9a3b-5796abbbd2d0</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>32fa1735-eb04-443f-9f78-c23c1df04cf7</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>b5953145-ccfb-4baa-85ac-4f4b4f2c0230</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>80b5163d-a1e2-42af-8f62-5a9469b0b084</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>1d1bb967-3924-421d-bb80-d2aeff52517f</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>cd06a394-7520-4a74-9ecf-3f752eaa67a0</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>f3796c26-4400-4e24-b317-b67c729b57c2</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>ea10118d-6732-4a70-88c7-fd8b8e02ea57</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>045635f4-2f0b-4041-9288-7fbfa5623aaa</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>fbc2a0aa-8ec9-427b-8fdb-799d41e1aebb</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>cd06a394-7520-4a74-9ecf-3f752eaa67a0</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>a2780292-b94b-457b-a979-0b9c375323b3</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>0f89be19-e86e-4669-aa29-89bd75c8a23c</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>7d8373d6-70ad-45a8-a8b0-25cb8f96655c</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>ad4a4282-d971-4325-a154-b37346c3166e</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>1897db85-2f33-482a-9d40-efbda3a642ca</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>cefb187d-18c9-4454-84d4-dfe50e1a0ef3</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>5b097ce8-8516-424c-bcb3-c7398a1b8c8e</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>8c068171-8107-4a9b-9188-55ea9df47b42</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>66143511-28d7-4bde-b005-a00c151ac746</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>cefb187d-18c9-4454-84d4-dfe50e1a0ef3</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>37accca6-21b0-4259-b339-e98d99d666b5</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>a2780292-b94b-457b-a979-0b9c375323b3</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>ee631a97-2bb5-41d3-b216-4687077c6663</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>4f9e268f-9424-426e-9348-830d8c71a43c</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <backPressureDataSizeThreshold>0 MB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>0</backPressureObjectThreshold>
+            <destination>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>5b097ce8-8516-424c-bcb3-c7398a1b8c8e</id>
+                <type>PROCESSOR</type>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</groupId>
+                <id>00e2d1ea-f20a-42ba-b34b-6c6b0525f1e7</id>
+                <type>PROCESSOR</type>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <processors>
+            <id>1d1bb967-3924-421d-bb80-d2aeff52517f</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1076.3906300590486</x>
+                <y>456.77165242800345</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Directory</key>
+                        <value>
+                            <description>The directory to which files should be written. You may use expression language such as /aa/bb/${path}</description>
+                            <displayName>Directory</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Directory</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Conflict Resolution Strategy</key>
+                        <value>
+                            <allowableValues>
+<displayName>replace</displayName>
+<value>replace</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>ignore</displayName>
+<value>ignore</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>fail</displayName>
+<value>fail</value>
+                            </allowableValues>
+                            <defaultValue>fail</defaultValue>
+                            <description>Indicates what should happen when a file with the same name already exists in the output directory</description>
+                            <displayName>Conflict Resolution Strategy</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Conflict Resolution Strategy</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Create Missing Directories</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>true</defaultValue>
+                            <description>If true, then missing destination directories will be created. If false, flowfiles are penalized and sent to failure.</description>
+                            <displayName>Create Missing Directories</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Create Missing Directories</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum File Count</key>
+                        <value>
+                            <description>Specifies the maximum number of files that can exist in the output directory</description>
+                            <displayName>Maximum File Count</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Maximum File Count</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Last Modified Time</key>
+                        <value>
+                            <description>Sets the lastModifiedTime on the output file to the value of this attribute.  Format must be yyyy-MM-dd'T'HH:mm:ssZ.  You may also use expression language such as ${file.lastModifiedTime}.</description>
+                            <displayName>Last Modified Time</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Last Modified Time</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Permissions</key>
+                        <value>
+                            <description>Sets the permissions on the output file to the value of this attribute.  Format must be either UNIX rwxrwxrwx with a - in place of denied permissions (e.g. rw-r--r--) or an octal number (e.g. 644).  You may also use expression language such as ${file.permissions}.</description>
+                            <displayName>Permissions</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Permissions</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Owner</key>
+                        <value>
+                            <description>Sets the owner on the output file to the value of this attribute.  You may also use expression language such as ${file.owner}.</description>
+                            <displayName>Owner</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Owner</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Group</key>
+                        <value>
+                            <description>Sets the group on the output file to the value of this attribute.  You may also use expression language such as ${file.group}.</description>
+                            <displayName>Group</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Group</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Directory</key>
+                        <value>D:\nifi-DataFlow-template\home\full-dataflow</value>
+                    </entry>
+                    <entry>
+                        <key>Conflict Resolution Strategy</key>
+                    </entry>
+                    <entry>
+                        <key>Create Missing Directories</key>
+                    </entry>
+                    <entry>
+                        <key>Maximum File Count</key>
+                    </entry>
+                    <entry>
+                        <key>Last Modified Time</key>
+                    </entry>
+                    <entry>
+                        <key>Permissions</key>
+                    </entry>
+                    <entry>
+                        <key>Owner</key>
+                    </entry>
+                    <entry>
+                        <key>Group</key>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>PutFile</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>Files that could not be written to the output directory for some reason are transferred to this relationship</description>
+                <name>failure</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>Files that have been successfully written to the output directory are transferred to this relationship</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>true</supportsBatching>
+            <supportsEventDriven>false</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.standard.PutFile</type>
+        </processors>
+        <processors>
+            <id>cd06a394-7520-4a74-9ecf-3f752eaa67a0</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1477.0627265760886</x>
+                <y>457.04013282048186</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Delete Attributes Expression</key>
+                        <value>
+                            <description>Regular expression for attributes to be deleted from flowfiles.</description>
+                            <displayName>Delete Attributes Expression</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Delete Attributes Expression</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>filename</key>
+                        <value>
+                            <description></description>
+                            <displayName>filename</displayName>
+                            <dynamic>true</dynamic>
+                            <name>filename</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Delete Attributes Expression</key>
+                    </entry>
+                    <entry>
+                        <key>filename</key>
+                        <value>symptom_code_mappings1.json</value>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>UpdateAttribute</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>All FlowFiles are routed to this relationship</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>false</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.attributes.UpdateAttribute</type>
+        </processors>
+        <processors>
+            <id>10d2709e-2334-4382-ba84-2224ec21699e</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1487.5169333025415</x>
+                <y>26.838143099204103</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Script Engine</key>
+                        <value>
+                            <allowableValues>
+<displayName>ECMAScript</displayName>
+<value>ECMAScript</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>Groovy</displayName>
+<value>Groovy</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>lua</displayName>
+<value>lua</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>python</displayName>
+<value>python</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>ruby</displayName>
+<value>ruby</value>
+                            </allowableValues>
+                            <defaultValue>ECMAScript</defaultValue>
+                            <description>The engine to execute scripts</description>
+                            <displayName>Script Engine</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script Engine</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Script File</key>
+                        <value>
+                            <description>Path to script file to execute. Only one of Script File or Script Body may be used</description>
+                            <displayName>Script File</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script File</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Script Body</key>
+                        <value>
+                            <description>Body of script to execute. Only one of Script File or Script Body may be used</description>
+                            <displayName>Script Body</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script Body</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Module Directory</key>
+                        <value>
+                            <description>Comma-separated list of paths to files and/or directories which contain modules required by the script.</description>
+                            <displayName>Module Directory</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Module Directory</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Script Engine</key>
+                        <value>Groovy</value>
+                    </entry>
+                    <entry>
+                        <key>Script File</key>
+                    </entry>
+                    <entry>
+                        <key>Script Body</key>
+                        <value>import org.apache.nifi.processor.io.StreamCallback
+import java.nio.charset.StandardCharsets
+
+def flowFile = session.get()
+if (!flowFile) return
+
+flowFile = session.write(flowFile, { inputStream, outputStream -&gt;
+    inputStream.eachLine { line, number -&gt;
+        if (number == 1)
+            return // continue
+            outputStream.write(line.toString().getBytes(StandardCharsets.UTF_8))
+        }
+} as StreamCallback)
+
+session.transfer(flowFile, REL_SUCCESS)</value>
+                    </entry>
+                    <entry>
+                        <key>Module Directory</key>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>ExecuteScript</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>FlowFiles that failed to be processed</description>
+                <name>failure</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>FlowFiles that were successfully processed</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>false</supportsBatching>
+            <supportsEventDriven>false</supportsEventDriven>
+            <supportsParallelProcessing>false</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.script.ExecuteScript</type>
+        </processors>
+        <processors>
+            <id>ad4a4282-d971-4325-a154-b37346c3166e</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1856.4184836889258</x>
+                <y>169.85012942552146</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Regular Expression</key>
+                        <value>
+                            <defaultValue>(?s:^.*$)</defaultValue>
+                            <description>The Search Value to search for in the FlowFile content. Only used for 'Literal Replace' and 'Regex Replace' matching strategies</description>
+                            <displayName>Search Value</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Regular Expression</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Replacement Value</key>
+                        <value>
+                            <defaultValue>$1</defaultValue>
+                            <description>The value to insert using the 'Replacement Strategy'. Using &quot;Regex Replace&quot; back-references to Regular Expression capturing groups are supported, but back-references that reference capturing groups that do not exist in the regular expression will be treated as literal value. Back References may also be referenced using the Expression Language, as '$1', '$2', etc. The single-tick marks MUST be included, as these variables are not &quot;Standard&quot; attribute names (attribute names must be quoted unless they contain only numbers, letters, and _).</description>
+                            <displayName>Replacement Value</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Replacement Value</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Character Set</key>
+                        <value>
+                            <defaultValue>UTF-8</defaultValue>
+                            <description>The Character Set in which the file is encoded</description>
+                            <displayName>Character Set</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Character Set</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                        <value>
+                            <defaultValue>1 MB</defaultValue>
+                            <description>Specifies the maximum amount of data to buffer (per file or per line, depending on the Evaluation Mode) in order to apply the replacement. If 'Entire Text' (in Evaluation Mode) is selected and the FlowFile is larger than this value, the FlowFile will be routed to 'failure'. In 'Line-by-Line' Mode, if a single line is larger than this value, the FlowFile will be routed to 'failure'. A default value of 1 MB is provided, primarily for 'Entire Text' mode. In 'Line-by-Line' Mode, a value such as 8 KB or 16 KB is suggested. This value is ignored if the &lt;Replacement Strategy&gt; property is set to one of: Append, Prepend, Always Replace</description>
+                            <displayName>Maximum Buffer Size</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Maximum Buffer Size</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Replacement Strategy</key>
+                        <value>
+                            <allowableValues>
+<description>Insert the Replacement Value at the beginning of the FlowFile or the beginning of each line (depending on the Evaluation Mode). For &quot;Line-by-Line&quot; Evaluation Mode, the value will be prepended to each line. For &quot;Entire Text&quot; evaluation mode, the value will be prepended to the entire text.</description>
+<displayName>Prepend</displayName>
+<value>Prepend</value>
+                            </allowableValues>
+                            <allowableValues>
+<description>Insert the Replacement Value at the end of the FlowFile or the end of each line (depending on the Evluation Mode). For &quot;Line-by-Line&quot; Evaluation Mode, the value will be appended to each line. For &quot;Entire Text&quot; evaluation mode, the value will be appended to the entire text.</description>
+<displayName>Append</displayName>
+<value>Append</value>
+                            </allowableValues>
+                            <allowableValues>
+<description>Interpret the Search Value as a Regular Expression and replace all matches with the Replacement Value. The Replacement Value may reference Capturing Groups used in the Search Value by using a dollar-sign followed by the Capturing Group number, such as $1 or $2. If the Search Value is set to .* then everything is replaced without even evaluating the Regular Expression.</description>
+<displayName>Regex Replace</displayName>
+<value>Regex Replace</value>
+                            </allowableValues>
+                            <allowableValues>
+<description>Search for all instances of the Search Value and replace the matches with the Replacement Value.</description>
+<displayName>Literal Replace</displayName>
+<value>Literal Replace</value>
+                            </allowableValues>
+                            <allowableValues>
+<description>Always replaces the entire line or the entire contents of the FlowFile (depending on the value of the &lt;Evaluation Mode&gt; property) and does not bother searching for any value. When this strategy is chosen, the &lt;Search Value&gt; property is ignored.</description>
+<displayName>Always Replace</displayName>
+<value>Always Replace</value>
+                            </allowableValues>
+                            <defaultValue>Regex Replace</defaultValue>
+                            <description>The strategy for how and what to replace within the FlowFile's text content.</description>
+                            <displayName>Replacement Strategy</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Replacement Strategy</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Evaluation Mode</key>
+                        <value>
+                            <allowableValues>
+<displayName>Line-by-Line</displayName>
+<value>Line-by-Line</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>Entire text</displayName>
+<value>Entire text</value>
+                            </allowableValues>
+                            <defaultValue>Entire text</defaultValue>
+                            <description>Run the 'Replacement Strategy' against each line separately (Line-by-Line) or buffer the entire file into memory (Entire Text) and run against that.</description>
+                            <displayName>Evaluation Mode</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Evaluation Mode</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Regular Expression</key>
+                        <value>(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?</value>
+                    </entry>
+                    <entry>
+                        <key>Replacement Value</key>
+                        <value>{&quot;status&quot;: &quot;${dsv.14}&quot;,
+ &quot;vehicleSerial&quot;: &quot;${dsv.3}&quot;,
+ &quot;description&quot;: &quot;${dsv.16}&quot;,
+ &quot;assetId&quot;: &quot;${dsv.3}&quot;,
+ &quot;defectPriority&quot;: &quot;${dsv.9}&quot;,
+ &quot;symptomCode&quot;: &quot;${dsv.17}&quot;,
+ &quot;symptomRaversCd&quot;: &quot;${dsv.17}&quot;,
+ &quot;threadId&quot;: &quot;${dsv.1}&quot;,
+ &quot;defectSource&quot;: &quot;${dsv.18}&quot;,
+ &quot;allAssets&quot;: [&quot;swt.unit.${dsv.2}&quot;, &quot;swt.unit.${dsv.3}&quot;],
+ &quot;headCode&quot;: &quot;${dsv.19}&quot;,
+ &quot;symptom&quot;: &quot;${dsv.17}&quot;,
+ &quot;statusCode&quot;: &quot;${dsv.14}&quot;}</value>
+                    </entry>
+                    <entry>
+                        <key>Character Set</key>
+                        <value>UTF-8</value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                        <value>1 MB</value>
+                    </entry>
+                    <entry>
+                        <key>Replacement Strategy</key>
+                        <value>Regex Replace</value>
+                    </entry>
+                    <entry>
+                        <key>Evaluation Mode</key>
+                        <value>Entire text</value>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>ReplaceText</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>FlowFiles that could not be updated are routed to this relationship</description>
+                <name>failure</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>FlowFiles that have been successfully processed are routed to this relationship. This includes both FlowFiles that had text replaced and those that did not.</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>true</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.standard.ReplaceText</type>
+        </processors>
+        <processors>
+            <id>cefb187d-18c9-4454-84d4-dfe50e1a0ef3</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1072.6631262809624</x>
+                <y>313.27906967492277</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Delete Attributes Expression</key>
+                        <value>
+                            <description>Regular expression for attributes to be deleted from flowfiles.</description>
+                            <displayName>Delete Attributes Expression</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Delete Attributes Expression</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>filename</key>
+                        <value>
+                            <description></description>
+                            <displayName>filename</displayName>
+                            <dynamic>true</dynamic>
+                            <name>filename</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Delete Attributes Expression</key>
+                    </entry>
+                    <entry>
+                        <key>filename</key>
+                        <value>defect_priority_mapping.json</value>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>UpdateAttribute</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>All FlowFiles are routed to this relationship</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>false</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.attributes.UpdateAttribute</type>
+        </processors>
+        <processors>
+            <id>66143511-28d7-4bde-b005-a00c151ac746</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1479.3495887778813</x>
+                <y>312.112473523155</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Regular Expression</key>
+                        <value>
+                            <defaultValue>\S+</defaultValue>
+                            <description>The Regular Expression to search for in the FlowFile content</description>
+                            <displayName>Regular Expression</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Regular Expression</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Matching Group</key>
+                        <value>
+                            <defaultValue>0</defaultValue>
+                            <description>The number of the matching group of the provided regex to replace with the corresponding value from the mapping file (if it exists).</description>
+                            <displayName>Matching Group</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Matching Group</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File</key>
+                        <value>
+                            <description>The name of the file (including the full path) containing the Mappings.</description>
+                            <displayName>Mapping File</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Mapping File</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File Refresh Interval</key>
+                        <value>
+                            <defaultValue>60s</defaultValue>
+                            <description>The polling interval in seconds to check for updates to the mapping file. The default is 60s.</description>
+                            <displayName>Mapping File Refresh Interval</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Mapping File Refresh Interval</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Character Set</key>
+                        <value>
+                            <defaultValue>UTF-8</defaultValue>
+                            <description>The Character Set in which the file is encoded</description>
+                            <displayName>Character Set</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Character Set</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                        <value>
+                            <defaultValue>1 MB</defaultValue>
+                            <description>Specifies the maximum amount of data to buffer (per file) in order to apply the regular expressions. If a FlowFile is larger than this value, the FlowFile will be routed to 'failure'</description>
+                            <displayName>Maximum Buffer Size</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Maximum Buffer Size</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Regular Expression</key>
+                        <value>&quot;[0-5]&quot;</value>
+                    </entry>
+                    <entry>
+                        <key>Matching Group</key>
+                    </entry>
+                    <entry>
+                        <key>Mapping File</key>
+                        <value>D:\nifi-DataFlow-template\datasets\source_data.txt</value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File Refresh Interval</key>
+                    </entry>
+                    <entry>
+                        <key>Character Set</key>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>DEFECT SOURCE DATA MAPPINGS</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>FlowFiles that could not be updated are routed to this relationship</description>
+                <name>failure</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>FlowFiles that have been successfully updated are routed to this relationship, as well as FlowFiles whose content does not match the given Regular Expression</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>true</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.standard.ReplaceTextWithMapping</type>
+        </processors>
+        <processors>
+            <id>99fd47a9-b4ce-46b7-8d0b-3e1ae61afde7</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>315.21363561105363</x>
+                <y>166.06816285261436</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Regular Expression</key>
+                        <value>
+                            <defaultValue>\S+</defaultValue>
+                            <description>The Regular Expression to search for in the FlowFile content</description>
+                            <displayName>Regular Expression</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Regular Expression</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Matching Group</key>
+                        <value>
+                            <defaultValue>0</defaultValue>
+                            <description>The number of the matching group of the provided regex to replace with the corresponding value from the mapping file (if it exists).</description>
+                            <displayName>Matching Group</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Matching Group</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File</key>
+                        <value>
+                            <description>The name of the file (including the full path) containing the Mappings.</description>
+                            <displayName>Mapping File</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Mapping File</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File Refresh Interval</key>
+                        <value>
+                            <defaultValue>60s</defaultValue>
+                            <description>The polling interval in seconds to check for updates to the mapping file. The default is 60s.</description>
+                            <displayName>Mapping File Refresh Interval</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Mapping File Refresh Interval</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Character Set</key>
+                        <value>
+                            <defaultValue>UTF-8</defaultValue>
+                            <description>The Character Set in which the file is encoded</description>
+                            <displayName>Character Set</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Character Set</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                        <value>
+                            <defaultValue>1 MB</defaultValue>
+                            <description>Specifies the maximum amount of data to buffer (per file) in order to apply the regular expressions. If a FlowFile is larger than this value, the FlowFile will be routed to 'failure'</description>
+                            <displayName>Maximum Buffer Size</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Maximum Buffer Size</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Regular Expression</key>
+                        <value>(\A*&quot;[A-Z]&quot;)</value>
+                    </entry>
+                    <entry>
+                        <key>Matching Group</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File</key>
+                        <value>D:\nifi-DataFlow-template\datasets\additional_code_data.txt</value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File Refresh Interval</key>
+                        <value>60s</value>
+                    </entry>
+                    <entry>
+                        <key>Character Set</key>
+                        <value>UTF-8</value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                        <value>1 MB</value>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>STATUS CODE MAPPINGS</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>FlowFiles that could not be updated are routed to this relationship</description>
+                <name>failure</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>FlowFiles that have been successfully updated are routed to this relationship, as well as FlowFiles whose content does not match the given Regular Expression</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>true</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.standard.ReplaceTextWithMapping</type>
+        </processors>
+        <processors>
+            <id>7d8373d6-70ad-45a8-a8b0-25cb8f96655c</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1487.2049463289923</x>
+                <y>168.77348576413465</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Script Engine</key>
+                        <value>
+                            <allowableValues>
+<displayName>ECMAScript</displayName>
+<value>ECMAScript</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>Groovy</displayName>
+<value>Groovy</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>lua</displayName>
+<value>lua</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>python</displayName>
+<value>python</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>ruby</displayName>
+<value>ruby</value>
+                            </allowableValues>
+                            <defaultValue>ECMAScript</defaultValue>
+                            <description>The engine to execute scripts</description>
+                            <displayName>Script Engine</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script Engine</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Script File</key>
+                        <value>
+                            <description>Path to script file to execute. Only one of Script File or Script Body may be used</description>
+                            <displayName>Script File</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script File</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Script Body</key>
+                        <value>
+                            <description>Body of script to execute. Only one of Script File or Script Body may be used</description>
+                            <displayName>Script Body</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script Body</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Module Directory</key>
+                        <value>
+                            <description>Comma-separated list of paths to files and/or directories which contain modules required by the script.</description>
+                            <displayName>Module Directory</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Module Directory</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Script Engine</key>
+                        <value>Groovy</value>
+                    </entry>
+                    <entry>
+                        <key>Script File</key>
+                    </entry>
+                    <entry>
+                        <key>Script Body</key>
+                        <value>import org.apache.commons.io.IOUtils
+import org.apache.nifi.processor.io.StreamCallback
+
+import java.nio.charset.StandardCharsets
+
+def flowFile = session.get()
+if (!flowFile) return
+
+flowFile = session.write(flowFile, { inputStream, outputStream -&gt;
+    def text = IOUtils.toString(inputStream, StandardCharsets.UTF_8)
+    def resultingText = text[0..text.lastIndexOf('}')].replaceAll('&quot;&quot;', '&quot;')
+
+    outputStream.write(resultingText.toString().getBytes(StandardCharsets.UTF_8))
+
+} as StreamCallback)
+
+session.transfer(flowFile, REL_SUCCESS)</value>
+                    </entry>
+                    <entry>
+                        <key>Module Directory</key>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>ExecuteScript</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>FlowFiles that failed to be processed</description>
+                <name>failure</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>FlowFiles that were successfully processed</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>false</supportsBatching>
+            <supportsEventDriven>false</supportsEventDriven>
+            <supportsParallelProcessing>false</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.script.ExecuteScript</type>
+        </processors>
+        <processors>
+            <id>ee631a97-2bb5-41d3-b216-4687077c6663</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1854.2378331514549</x>
+                <y>311.33973013997627</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Delete Attributes Expression</key>
+                        <value>
+                            <description>Regular expression for attributes to be deleted from flowfiles.</description>
+                            <displayName>Delete Attributes Expression</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Delete Attributes Expression</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>filename</key>
+                        <value>
+                            <description></description>
+                            <displayName>filename</displayName>
+                            <dynamic>true</dynamic>
+                            <name>filename</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Delete Attributes Expression</key>
+                    </entry>
+                    <entry>
+                        <key>filename</key>
+                        <value>defect_source_data_mappings.json</value>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>UpdateAttribute</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>All FlowFiles are routed to this relationship</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>false</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.attributes.UpdateAttribute</type>
+        </processors>
+        <processors>
+            <id>5b097ce8-8516-424c-bcb3-c7398a1b8c8e</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>702.8070041413272</x>
+                <y>312.3203906358175</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Regular Expression</key>
+                        <value>
+                            <defaultValue>\S+</defaultValue>
+                            <description>The Regular Expression to search for in the FlowFile content</description>
+                            <displayName>Regular Expression</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Regular Expression</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Matching Group</key>
+                        <value>
+                            <defaultValue>0</defaultValue>
+                            <description>The number of the matching group of the provided regex to replace with the corresponding value from the mapping file (if it exists).</description>
+                            <displayName>Matching Group</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Matching Group</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File</key>
+                        <value>
+                            <description>The name of the file (including the full path) containing the Mappings.</description>
+                            <displayName>Mapping File</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Mapping File</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File Refresh Interval</key>
+                        <value>
+                            <defaultValue>60s</defaultValue>
+                            <description>The polling interval in seconds to check for updates to the mapping file. The default is 60s.</description>
+                            <displayName>Mapping File Refresh Interval</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Mapping File Refresh Interval</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Character Set</key>
+                        <value>
+                            <defaultValue>UTF-8</defaultValue>
+                            <description>The Character Set in which the file is encoded</description>
+                            <displayName>Character Set</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Character Set</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                        <value>
+                            <defaultValue>1 MB</defaultValue>
+                            <description>Specifies the maximum amount of data to buffer (per file) in order to apply the regular expressions. If a FlowFile is larger than this value, the FlowFile will be routed to 'failure'</description>
+                            <displayName>Maximum Buffer Size</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Maximum Buffer Size</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Regular Expression</key>
+                        <value>&quot;3&quot;</value>
+                    </entry>
+                    <entry>
+                        <key>Matching Group</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File</key>
+                        <value>D:\nifi-DataFlow-template\datasets\sample_data.txt</value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File Refresh Interval</key>
+                        <value>60s</value>
+                    </entry>
+                    <entry>
+                        <key>Character Set</key>
+                        <value>UTF-8</value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                        <value>1 MB</value>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>DEFECT PRIORITY MAPPINGS</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>FlowFiles that could not be updated are routed to this relationship</description>
+                <name>failure</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>FlowFiles that have been successfully updated are routed to this relationship, as well as FlowFiles whose content does not match the given Regular Expression</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>true</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.standard.ReplaceTextWithMapping</type>
+        </processors>
+        <processors>
+            <id>045635f4-2f0b-4041-9288-7fbfa5623aaa</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>314.4836969460872</x>
+                <y>24.328156682673523</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Input Directory</key>
+                        <value>
+                            <description>The input directory from which to pull files</description>
+                            <displayName>Input Directory</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Input Directory</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>File Filter</key>
+                        <value>
+                            <defaultValue>[^\.].*</defaultValue>
+                            <description>Only files whose names match the given regular expression will be picked up</description>
+                            <displayName>File Filter</displayName>
+                            <dynamic>false</dynamic>
+                            <name>File Filter</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Path Filter</key>
+                        <value>
+                            <description>When Recurse Subdirectories is true, then only subdirectories whose path matches the given regular expression will be scanned</description>
+                            <displayName>Path Filter</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Path Filter</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Batch Size</key>
+                        <value>
+                            <defaultValue>10</defaultValue>
+                            <description>The maximum number of files to pull in each iteration</description>
+                            <displayName>Batch Size</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Batch Size</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Keep Source File</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>false</defaultValue>
+                            <description>If true, the file is not deleted after it has been copied to the Content Repository; this causes the file to be picked up continually and is useful for testing purposes.  If not keeping original NiFi will need write permissions on the directory it is pulling from otherwise it will ignore the file.</description>
+                            <displayName>Keep Source File</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Keep Source File</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Recurse Subdirectories</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>true</defaultValue>
+                            <description>Indicates whether or not to pull files from subdirectories</description>
+                            <displayName>Recurse Subdirectories</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Recurse Subdirectories</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Polling Interval</key>
+                        <value>
+                            <defaultValue>0 sec</defaultValue>
+                            <description>Indicates how long to wait before performing a directory listing</description>
+                            <displayName>Polling Interval</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Polling Interval</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Ignore Hidden Files</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>true</defaultValue>
+                            <description>Indicates whether or not hidden files should be ignored</description>
+                            <displayName>Ignore Hidden Files</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Ignore Hidden Files</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Minimum File Age</key>
+                        <value>
+                            <defaultValue>0 sec</defaultValue>
+                            <description>The minimum age that a file must be in order to be pulled; any file younger than this amount of time (according to last modification date) will be ignored</description>
+                            <displayName>Minimum File Age</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Minimum File Age</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum File Age</key>
+                        <value>
+                            <description>The maximum age that a file must be in order to be pulled; any file older than this amount of time (according to last modification date) will be ignored</description>
+                            <displayName>Maximum File Age</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Maximum File Age</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Minimum File Size</key>
+                        <value>
+                            <defaultValue>0 B</defaultValue>
+                            <description>The minimum size that a file must be in order to be pulled</description>
+                            <displayName>Minimum File Size</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Minimum File Size</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum File Size</key>
+                        <value>
+                            <description>The maximum size that a file can be in order to be pulled</description>
+                            <displayName>Maximum File Size</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Maximum File Size</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Input Directory</key>
+                        <value>D:\nifi-DataFlow-template\home\raw-data-input</value>
+                    </entry>
+                    <entry>
+                        <key>File Filter</key>
+                        <value>DEFECT_DATA_TABLE_minimal_subset.dsv</value>
+                    </entry>
+                    <entry>
+                        <key>Path Filter</key>
+                    </entry>
+                    <entry>
+                        <key>Batch Size</key>
+                        <value>10</value>
+                    </entry>
+                    <entry>
+                        <key>Keep Source File</key>
+                        <value>true</value>
+                    </entry>
+                    <entry>
+                        <key>Recurse Subdirectories</key>
+                        <value>true</value>
+                    </entry>
+                    <entry>
+                        <key>Polling Interval</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>Ignore Hidden Files</key>
+                        <value>true</value>
+                    </entry>
+                    <entry>
+                        <key>Minimum File Age</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>Maximum File Age</key>
+                    </entry>
+                    <entry>
+                        <key>Minimum File Size</key>
+                        <value>0 B</value>
+                    </entry>
+                    <entry>
+                        <key>Maximum File Size</key>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>GetFile</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>All files are routed to success</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>false</supportsBatching>
+            <supportsEventDriven>false</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.standard.GetFile</type>
+        </processors>
+        <processors>
+            <id>32fa1735-eb04-443f-9f78-c23c1df04cf7</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>706.3740747469611</x>
+                <y>166.29634343015027</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Script Engine</key>
+                        <value>
+                            <allowableValues>
+<displayName>ECMAScript</displayName>
+<value>ECMAScript</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>Groovy</displayName>
+<value>Groovy</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>lua</displayName>
+<value>lua</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>python</displayName>
+<value>python</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>ruby</displayName>
+<value>ruby</value>
+                            </allowableValues>
+                            <defaultValue>ECMAScript</defaultValue>
+                            <description>The engine to execute scripts</description>
+                            <displayName>Script Engine</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script Engine</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Script File</key>
+                        <value>
+                            <description>Path to script file to execute. Only one of Script File or Script Body may be used</description>
+                            <displayName>Script File</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script File</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Script Body</key>
+                        <value>
+                            <description>Body of script to execute. Only one of Script File or Script Body may be used</description>
+                            <displayName>Script Body</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script Body</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Module Directory</key>
+                        <value>
+                            <description>Comma-separated list of paths to files and/or directories which contain modules required by the script.</description>
+                            <displayName>Module Directory</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Module Directory</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Script Engine</key>
+                        <value>Groovy</value>
+                    </entry>
+                    <entry>
+                        <key>Script File</key>
+                    </entry>
+                    <entry>
+                        <key>Script Body</key>
+                        <value>import org.apache.commons.io.IOUtils
+import org.apache.nifi.processor.io.StreamCallback
+
+import java.nio.charset.StandardCharsets
+
+def flowFile = session.get()
+if (!flowFile) return
+
+flowFile = session.write(flowFile, { inputStream, outputStream -&gt;
+    def text = IOUtils.toString(inputStream, StandardCharsets.UTF_8)
+    def regex = /\s\:\&quot;\,/
+    def textTransformation = text[0..text.lastIndexOf('}')].replace('swt.unit.&quot;', 'swt.unit.')
+    def finalTransformation = textTransformation.replace('\\:\\s\\&quot;', '&quot;&quot;')
+    outputStream.write(finalTransformation.toString().getBytes(StandardCharsets.UTF_8))
+
+} as StreamCallback)
+
+session.transfer(flowFile, REL_SUCCESS)</value>
+                    </entry>
+                    <entry>
+                        <key>Module Directory</key>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>ExecuteScript</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>FlowFiles that failed to be processed</description>
+                <name>failure</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>FlowFiles that were successfully processed</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>false</supportsBatching>
+            <supportsEventDriven>false</supportsEventDriven>
+            <supportsParallelProcessing>false</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.script.ExecuteScript</type>
+        </processors>
+        <processors>
+            <id>034ac0a1-c299-460e-97fc-4896e1888d0a</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1860.8237484769384</x>
+                <y>29.701105567756827</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Character Set</key>
+                        <value>
+                            <defaultValue>UTF-8</defaultValue>
+                            <description>The Character Set in which the file is encoded</description>
+                            <displayName>Character Set</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Character Set</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                        <value>
+                            <defaultValue>1 MB</defaultValue>
+                            <description>Specifies the maximum amount of data to buffer (per file) in order to apply the regular expressions.  Files larger than the specified maximum will not be fully evaluated.</description>
+                            <displayName>Maximum Buffer Size</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Maximum Buffer Size</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Capture Group Length</key>
+                        <value>
+                            <defaultValue>1024</defaultValue>
+                            <description>Specifies the maximum number of characters a given capture group value can have.  Any characters beyond the max will be truncated.</description>
+                            <displayName>Maximum Capture Group Length</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Maximum Capture Group Length</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Enable Canonical Equivalence</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>false</defaultValue>
+                            <description>Indicates that two characters match only when their full canonical decompositions match.</description>
+                            <displayName>Enable Canonical Equivalence</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Enable Canonical Equivalence</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Enable Case-insensitive Matching</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>false</defaultValue>
+                            <description>Indicates that two characters match even if they are in a different case.  Can also be specified via the embeded flag (?i).</description>
+                            <displayName>Enable Case-insensitive Matching</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Enable Case-insensitive Matching</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Permit Whitespace and Comments in Pattern</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>false</defaultValue>
+                            <description>In this mode, whitespace is ignored, and embedded comments starting with # are ignored until the end of a line.  Can also be specified via the embeded flag (?x).</description>
+                            <displayName>Permit Whitespace and Comments in Pattern</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Permit Whitespace and Comments in Pattern</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Enable DOTALL Mode</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>false</defaultValue>
+                            <description>Indicates that the expression '.' should match any character, including a line terminator.  Can also be specified via the embeded flag (?s).</description>
+                            <displayName>Enable DOTALL Mode</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Enable DOTALL Mode</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Enable Literal Parsing of the Pattern</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>false</defaultValue>
+                            <description>Indicates that Metacharacters and escape characters should be given no special meaning.</description>
+                            <displayName>Enable Literal Parsing of the Pattern</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Enable Literal Parsing of the Pattern</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Enable Multiline Mode</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>false</defaultValue>
+                            <description>Indicates that '^' and '$' should match just after and just before a line terminator or end of sequence, instead of only the begining or end of the entire input.  Can also be specified via the embeded flag (?m).</description>
+                            <displayName>Enable Multiline Mode</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Enable Multiline Mode</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Enable Unicode-aware Case Folding</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>false</defaultValue>
+                            <description>When used with 'Enable Case-insensitive Matching', matches in a manner consistent with the Unicode Standard.  Can also be specified via the embeded flag (?u).</description>
+                            <displayName>Enable Unicode-aware Case Folding</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Enable Unicode-aware Case Folding</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Enable Unicode Predefined Character Classes</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>false</defaultValue>
+                            <description>Specifies conformance with the Unicode Technical Standard #18: Unicode Regular Expression Annex C: Compatibility Properties.  Can also be specified via the embeded flag (?U).</description>
+                            <displayName>Enable Unicode Predefined Character Classes</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Enable Unicode Predefined Character Classes</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Enable Unix Lines Mode</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>false</defaultValue>
+                            <description>Indicates that only the '
+' line terminator is recognized in the behavior of '.', '^', and '$'.  Can also be specified via the embeded flag (?d).</description>
+                            <displayName>Enable Unix Lines Mode</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Enable Unix Lines Mode</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Include Capture Group 0</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>true</defaultValue>
+                            <description>Indicates that Capture Group 0 should be included as an attribute. Capture Group 0 represents the entirety of the regular expression match, is typically not used, and could have considerable length.</description>
+                            <displayName>Include Capture Group 0</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Include Capture Group 0</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>dsv</key>
+                        <value>
+                            <description></description>
+                            <displayName>dsv</displayName>
+                            <dynamic>true</dynamic>
+                            <name>dsv</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Character Set</key>
+                        <value>UTF-8</value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                        <value>1 MB</value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Capture Group Length</key>
+                        <value>1024</value>
+                    </entry>
+                    <entry>
+                        <key>Enable Canonical Equivalence</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>Enable Case-insensitive Matching</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>Permit Whitespace and Comments in Pattern</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>Enable DOTALL Mode</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>Enable Literal Parsing of the Pattern</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>Enable Multiline Mode</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>Enable Unicode-aware Case Folding</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>Enable Unicode Predefined Character Classes</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>Enable Unix Lines Mode</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>Include Capture Group 0</key>
+                        <value>true</value>
+                    </entry>
+                    <entry>
+                        <key>dsv</key>
+                        <value>(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?;(.*?)?</value>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>ExtractText</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>FlowFiles are routed to this relationship when the Regular Expression is successfully evaluated and the FlowFile is modified as a result</description>
+                <name>matched</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>FlowFiles are routed to this relationship when no provided Regular Expression matches the content of the FlowFile</description>
+                <name>unmatched</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>true</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.standard.ExtractText</type>
+        </processors>
+        <processors>
+            <id>a2780292-b94b-457b-a979-0b9c375323b3</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1842.8225681061708</x>
+                <y>455.7614611924582</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Regular Expression</key>
+                        <value>
+                            <defaultValue>\S+</defaultValue>
+                            <description>The Regular Expression to search for in the FlowFile content</description>
+                            <displayName>Regular Expression</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Regular Expression</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Matching Group</key>
+                        <value>
+                            <defaultValue>0</defaultValue>
+                            <description>The number of the matching group of the provided regex to replace with the corresponding value from the mapping file (if it exists).</description>
+                            <displayName>Matching Group</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Matching Group</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File</key>
+                        <value>
+                            <description>The name of the file (including the full path) containing the Mappings.</description>
+                            <displayName>Mapping File</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Mapping File</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File Refresh Interval</key>
+                        <value>
+                            <defaultValue>60s</defaultValue>
+                            <description>The polling interval in seconds to check for updates to the mapping file. The default is 60s.</description>
+                            <displayName>Mapping File Refresh Interval</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Mapping File Refresh Interval</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Character Set</key>
+                        <value>
+                            <defaultValue>UTF-8</defaultValue>
+                            <description>The Character Set in which the file is encoded</description>
+                            <displayName>Character Set</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Character Set</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                        <value>
+                            <defaultValue>1 MB</defaultValue>
+                            <description>Specifies the maximum amount of data to buffer (per file) in order to apply the regular expressions. If a FlowFile is larger than this value, the FlowFile will be routed to 'failure'</description>
+                            <displayName>Maximum Buffer Size</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Maximum Buffer Size</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Regular Expression</key>
+                        <value>&quot;B2&quot;.*?</value>
+                    </entry>
+                    <entry>
+                        <key>Matching Group</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File</key>
+                        <value>D:\nifi-DataFlow-template\datasets\code_table.txt</value>
+                    </entry>
+                    <entry>
+                        <key>Mapping File Refresh Interval</key>
+                        <value>60s</value>
+                    </entry>
+                    <entry>
+                        <key>Character Set</key>
+                        <value>UTF-8</value>
+                    </entry>
+                    <entry>
+                        <key>Maximum Buffer Size</key>
+                        <value>1 MB</value>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>SYMPTOM CODE MAPPINGS</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>FlowFiles that could not be updated are routed to this relationship</description>
+                <name>failure</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>FlowFiles that have been successfully updated are routed to this relationship, as well as FlowFiles whose content does not match the given Regular Expression</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>true</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.standard.ReplaceTextWithMapping</type>
+        </processors>
+        <processors>
+            <id>077a5cf2-9dac-457b-b9bd-12b315502be5</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1095.5171536283056</x>
+                <y>23.499288412872488</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Line Split Count</key>
+                        <value>
+                            <description>The number of lines that will be added to each split file</description>
+                            <displayName>Line Split Count</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Line Split Count</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Header Line Count</key>
+                        <value>
+                            <defaultValue>0</defaultValue>
+                            <description>The number of lines that should be considered part of the header; the header lines will be duplicated to all split files</description>
+                            <displayName>Header Line Count</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Header Line Count</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Remove Trailing Newlines</key>
+                        <value>
+                            <allowableValues>
+<displayName>true</displayName>
+<value>true</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>false</displayName>
+<value>false</value>
+                            </allowableValues>
+                            <defaultValue>true</defaultValue>
+                            <description>Whether to remove newlines at the end of each split file. This should be false if you intend to merge the split files later</description>
+                            <displayName>Remove Trailing Newlines</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Remove Trailing Newlines</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Line Split Count</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>Header Line Count</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>Remove Trailing Newlines</key>
+                        <value>true</value>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>SplitText</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>If a file cannot be split for some reason, the original file will be routed to this destination and nothing will be routed elsewhere</description>
+                <name>failure</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>The original input file will be routed to this destination when it has been successfully split into 1 or more files</description>
+                <name>original</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>The split files will be routed to this destination when an input file is successfully split into 1 or more split files</description>
+                <name>splits</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>true</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.standard.SplitText</type>
+        </processors>
+        <processors>
+            <id>00e2d1ea-f20a-42ba-b34b-6c6b0525f1e7</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>318.7876286937638</x>
+                <y>316.54214308696885</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Delete Attributes Expression</key>
+                        <value>
+                            <description>Regular expression for attributes to be deleted from flowfiles.</description>
+                            <displayName>Delete Attributes Expression</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Delete Attributes Expression</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>filename</key>
+                        <value>
+                            <description></description>
+                            <displayName>filename</displayName>
+                            <dynamic>true</dynamic>
+                            <name>filename</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Delete Attributes Expression</key>
+                    </entry>
+                    <entry>
+                        <key>filename</key>
+                        <value>status_code_mapping.json</value>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>UpdateAttribute</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>All FlowFiles are routed to this relationship</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>false</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.attributes.UpdateAttribute</type>
+        </processors>
+        <processors>
+            <id>b5953145-ccfb-4baa-85ac-4f4b4f2c0230</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>1081.4562673333844</x>
+                <y>158.84491950255244</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Delete Attributes Expression</key>
+                        <value>
+                            <description>Regular expression for attributes to be deleted from flowfiles.</description>
+                            <displayName>Delete Attributes Expression</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Delete Attributes Expression</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>filename</key>
+                        <value>
+                            <description></description>
+                            <displayName>filename</displayName>
+                            <dynamic>true</dynamic>
+                            <name>filename</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Delete Attributes Expression</key>
+                    </entry>
+                    <entry>
+                        <key>filename</key>
+                        <value>initial_mappings.json</value>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>UpdateAttribute</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>All FlowFiles are routed to this relationship</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>false</supportsBatching>
+            <supportsEventDriven>true</supportsEventDriven>
+            <supportsParallelProcessing>true</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.attributes.UpdateAttribute</type>
+        </processors>
+        <processors>
+            <id>ea10118d-6732-4a70-88c7-fd8b8e02ea57</id>
+            <parentGroupId>c02092e4-3b26-47d6-af21-9bc1b392dd59</parentGroupId>
+            <position>
+                <x>695.0585947122005</x>
+                <y>20.166447374049255</y>
+            </position>
+            <config>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <defaultConcurrentTasks>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                    <entry>
+                        <key>EVENT_DRIVEN</key>
+                        <value>0</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>1</value>
+                    </entry>
+                </defaultConcurrentTasks>
+                <defaultSchedulingPeriod>
+                    <entry>
+                        <key>TIMER_DRIVEN</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>CRON_DRIVEN</key>
+                        <value>* * * * * ?</value>
+                    </entry>
+                </defaultSchedulingPeriod>
+                <descriptors>
+                    <entry>
+                        <key>Script Engine</key>
+                        <value>
+                            <allowableValues>
+<displayName>ECMAScript</displayName>
+<value>ECMAScript</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>Groovy</displayName>
+<value>Groovy</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>lua</displayName>
+<value>lua</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>python</displayName>
+<value>python</value>
+                            </allowableValues>
+                            <allowableValues>
+<displayName>ruby</displayName>
+<value>ruby</value>
+                            </allowableValues>
+                            <defaultValue>ECMAScript</defaultValue>
+                            <description>The engine to execute scripts</description>
+                            <displayName>Script Engine</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script Engine</name>
+                            <required>true</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Script File</key>
+                        <value>
+                            <description>Path to script file to execute. Only one of Script File or Script Body may be used</description>
+                            <displayName>Script File</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script File</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>true</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Script Body</key>
+                        <value>
+                            <description>Body of script to execute. Only one of Script File or Script Body may be used</description>
+                            <displayName>Script Body</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Script Body</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Module Directory</key>
+                        <value>
+                            <description>Comma-separated list of paths to files and/or directories which contain modules required by the script.</description>
+                            <displayName>Module Directory</displayName>
+                            <dynamic>false</dynamic>
+                            <name>Module Directory</name>
+                            <required>false</required>
+                            <sensitive>false</sensitive>
+                            <supportsEl>false</supportsEl>
+                        </value>
+                    </entry>
+                </descriptors>
+                <lossTolerant>false</lossTolerant>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Script Engine</key>
+                        <value>Groovy</value>
+                    </entry>
+                    <entry>
+                        <key>Script File</key>
+                    </entry>
+                    <entry>
+                        <key>Script Body</key>
+                        <value>import org.apache.nifi.processor.io.StreamCallback
+
+import java.nio.charset.StandardCharsets
+
+def flowFile = session.get()
+if (!flowFile) return
+
+flowFile = session.write(flowFile, { inputStream, outputStream -&gt;
+    inputStream.eachLine { line -&gt;
+        def a = line.replace('\t', '').replace('¦', ';')
+        outputStream.write(&quot;${a}\n&quot;.toString().getBytes(StandardCharsets.UTF_8))
+    }
+} as StreamCallback)
+
+session.transfer(flowFile, REL_SUCCESS)</value>
+                    </entry>
+                    <entry>
+                        <key>Module Directory</key>
+                    </entry>
+                </properties>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <name>ExecuteScript</name>
+            <persistsState>false</persistsState>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <description>FlowFiles that failed to be processed</description>
+                <name>failure</name>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <description>FlowFiles that were successfully processed</description>
+                <name>success</name>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <supportsBatching>false</supportsBatching>
+            <supportsEventDriven>false</supportsEventDriven>
+            <supportsParallelProcessing>false</supportsParallelProcessing>
+            <type>org.apache.nifi.processors.script.ExecuteScript</type>
+        </processors>
+    </snippet>
+    <timestamp>05/22/2016 19:41:41 BST</timestamp>
+</template>
